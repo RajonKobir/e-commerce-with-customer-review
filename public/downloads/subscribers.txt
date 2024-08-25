@@ -1,0 +1,7 @@
+prince@gmail.com
+admin@example.com
+random@gmail.com
+random2@gmail.com
+vendor@gmail.com
+superadmin@gmail.com
+superadmin@gmail.com
